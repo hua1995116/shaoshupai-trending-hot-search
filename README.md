@@ -1,6 +1,8 @@
 
 # shaoshupai-trending-hot-search
 
+[![Build Status](https://github.com/hua1995116/shaoshupai-trending-hot-search/workflows/ci/badge.svg?branch=master)](https://github.com/hua1995116/shaoshupai-trending-hot-search/actions)
+[![license](https://img.shields.io/github/license/hua1995116/shaoshupai-trending-hot-search)](https://github.com/hua1995116/shaoshupai-trending-hot-search/blob/master/LICENSE)
 
 少数派热门榜，记录从 2022-01-09 日开始的少数派热门文章。每天 21:00 抓取，按天归档。
 
@@ -22,3 +24,8 @@
 <!-- END -->
 
 历史归档 [./archives](./archives)
+
+### License
+
+[shaoshupai-trending-hot-search](https://github.com/hua1995116/shaoshupai-trending-hot-search)
+的源码使用 MIT License 发布。具体内容请查看 [LICENSE](./LICENSE) 文件。

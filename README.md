@@ -23,7 +23,13 @@
 1. [新玩意 089｜少数派的编辑们最近买了啥？](https://sspai.com/post/70570)
 <!-- END -->
 
-历史归档 [./archives](./archives)
+## 历史归档 
+
+[./archives](./archives)
+
+## 灵感来源
+
+[@justjavac](https://github.com/justjavac)
 
 ### License
 

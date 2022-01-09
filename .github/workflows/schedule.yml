@@ -1,0 +1,30 @@
+name: schedule
+
+on:
+  schedule:
+    - cron: "00 21 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      TZ: Asia/Shanghai
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: run node
+        uses: actions/setup-node@v2
+
+      - name: code
+        run: |
+          git config --local user.email "bot@github.com"
+          git config --local user.name "bot"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          node mod.js
+          git add .
+          git commit -m "update by github action"
+          git push

@@ -1,7 +1,7 @@
 
 # shaoshupai-trending-hot-search
 
-[![Build Status](https://github.com/hua1995116/shaoshupai-trending-hot-search/workflows/ci/badge.svg?branch=master)](https://github.com/hua1995116/shaoshupai-trending-hot-search/actions)
+[![github-ci](https://github.com/hua1995116/shaoshupai-trending-hot-search/actions/workflows/ci.yml/badge.svg?branch=master&event=push)](https://github.com/hua1995116/shaoshupai-trending-hot-search/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/hua1995116/shaoshupai-trending-hot-search)](https://github.com/hua1995116/shaoshupai-trending-hot-search/blob/master/LICENSE)
 
 少数派热门榜，记录从 2022-01-09 日开始的少数派热门文章。每天 21:00 抓取，按天归档。

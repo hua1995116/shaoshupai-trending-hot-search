@@ -9,7 +9,7 @@ function createList(words) {
   return `<!-- BEGIN -->
 <!-- 最后更新时间 ${new Date()} -->
 ${
-    words.map((x) => `1. [${x.title}](https://sspai.com/post/${x.id})`)
+    words.map((x, i) => `${i+1}. [${x.title}](https://sspai.com/post/${x.id})`)
       .join("\n")
   }
 <!-- END -->`;

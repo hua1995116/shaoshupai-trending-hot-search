@@ -10,7 +10,7 @@
 今日热门文章
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 12 2022 14:24:34 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 12 2022 20:32:13 GMT+0800 (China Standard Time) -->
 1. [少数派作者的桌面长啥样？看 5 位作者分享自己的「桌面好物」](https://sspai.com/post/70809)
 2. [为什么我们应该抵制「偷拍」？](https://sspai.com/post/70755)
 3. [2021 年度新玩意大赏：新鲜散尽后的消费决定](https://sspai.com/post/70695)

@@ -2,7 +2,7 @@ name: schedule
 
 on:
   schedule:
-    - cron: "00 21 * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   build:
@@ -27,8 +27,8 @@ jobs:
           git config --local user.email "bot@github.com"
           git config --local user.name "bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
+          git pull origin master
           node mod.js
           git add .
           git commit -m "update by github action"
-          git push
+          git push origin master

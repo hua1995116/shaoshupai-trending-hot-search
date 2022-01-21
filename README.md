@@ -10,7 +10,7 @@
 今日热门文章
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Jan 21 2022 02:20:36 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jan 21 2022 09:00:32 GMT+0800 (China Standard Time) -->
 1. [两步打造适合自己的笔记系统，简单又高效](https://sspai.com/post/70841)
 2. [少数派作者的桌面长啥样？看 5 位作者分享自己的「桌面好物」](https://sspai.com/post/70809)
 3. [年度征文｜展开讲讲 Craft，我的 2021 年度应用](https://sspai.com/post/70778)

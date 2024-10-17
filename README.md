@@ -10,7 +10,7 @@
 今日热门文章
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Oct 17 2024 02:06:55 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Oct 17 2024 08:23:55 GMT+0800 (China Standard Time) -->
 1. [年度征文 | 放弃工具和方法后，我收获了效率生活](https://sspai.com/post/70805)
 2. [两步打造适合自己的笔记系统，简单又高效](https://sspai.com/post/70841)
 3. [少数派作者的桌面长啥样？看 5 位作者分享自己的「桌面好物」](https://sspai.com/post/70809)
